@@ -1,0 +1,2 @@
+# warranty-record
+บัตรรับประกัน
